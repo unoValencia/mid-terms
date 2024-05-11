@@ -8,7 +8,7 @@ The project showcases a personal website that has informations about me.
 - [Usage](#usage)
 - [Contributions](#contributions)
 
-## Live Server
+## Live_Server
 
 This is the link for the live server: https://unovalencia.github.io/mid-terms/index.html
 
