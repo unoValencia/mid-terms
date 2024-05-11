@@ -4,7 +4,7 @@ This is my mid term exam, it uses bootstrap, css, html, and js. It is composed w
 The project showcases a personal website that has informations about me. 
 
 ## Table of Contents
-- [Live Server](#Live server)
+- [Live_Server](#Live server)
 - [Usage](#usage)
 - [Contributions](#contributions)
 
